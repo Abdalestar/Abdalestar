@@ -1,0 +1,37 @@
+<p align="center">
+  <img src="./banner.png" alt="Abdalle Ali" width="100%" />
+</p>
+
+# Abdalle Ali
+
+I build things. Been the idea guy my whole life. This is where I stop pitching and start shipping.
+
+## Who I am
+
+I'm a founder. I design and code the products I build. I caught the entrepreneurial bug a few years back and it stuck hard. My working assumption: there isn't a problem I can't reason my way through. Haven't been proven wrong yet.
+
+If you run a small business getting eaten by complexity, or you're a founder trying to make something work in a market most people write off, we should talk.
+
+## What I'm building
+
+### Qtap
+Loyalty for small businesses. A merchant dashboard and a customer mobile app that talk to each other. Made for cafés, salons, barbershops, gyms, the small operators who want a loyalty program without a year-long integration project. Live, private repo. [qtap.com](https://qtap.com)
+
+### Fenny
+A bilingual fintech app. Arabic and Latin treated as equals from the first sketch instead of bolted on after launch. In build, private repo.
+
+More in the pipeline. They stay quiet until they're real.
+
+## What I bring
+
+Creativity, leadership, technical execution, relentless mental toughness. Before I built products, I worked in environments where adrenaline was the baseline and decisions had real weight. That's the mental engine I still run on: calm under pressure, fast under uncertainty, fearless when it matters.
+
+I design the products I build, code them, run the meetings, make the calls. The idea-guy phase is over. The build phase started, and I'm not slowing down.
+
+## Now
+
+Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type system. Looking for hard problems and the kind of people who like solving them.
+
+## Reach me
+
+[Email](mailto:abdalestar@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abdalle-ali/)
