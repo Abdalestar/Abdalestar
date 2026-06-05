@@ -15,7 +15,7 @@ If you run a small business getting eaten by complexity, or you're a founder try
 ## What I'm building
 
 ### Qtap
-Loyalty for small businesses. A merchant dashboard and a customer mobile app that talk to each other. Made for cafés, salons, barbershops, gyms, the small operators who want a loyalty program without a year-long integration project. Live, private repo. [qtap.com](https://qtap.com)
+Loyalty for small businesses. A merchant dashboard and a customer mobile app that talk to each other. Made for cafés, salons, barbershops, gyms, the small operators who want a loyalty program without a year-long integration project. Live, private repo. [qtap.qa](https://qtap.qa)
 
 ### Fenny
 A bilingual fintech app. Arabic and Latin treated as equals from the first sketch instead of bolted on after launch. In build, private repo.
