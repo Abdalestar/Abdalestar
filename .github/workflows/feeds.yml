@@ -23,7 +23,7 @@ jobs:
           feed_list: "https://www.goodreads.com/review/list_rss/60807769?shelf=currently-reading"
           comment_tag_name: "GOODREADS"
           max_post_count: 3
-          template: "- $title<br>"
+          template: "<br>&bull; $title"
           commit_message: "Update Goodreads currently-reading"
 
       - name: Listening (Huberman Lab)
@@ -32,5 +32,5 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC2D2CMWXMOVWx7giW1n3LIg"
           comment_tag_name: "LISTENING"
           max_post_count: 3
-          template: "- [$title]($url)<br>"
+          template: "<br>&bull; [$title]($url)"
           commit_message: "Update listening feed"
