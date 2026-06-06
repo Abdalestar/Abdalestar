@@ -34,8 +34,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Currently reading
 
-<!-- GOODREADS:START -->
-<!-- GOODREADS:END -->
+<!-- GOODREADS:START -->- Smartcuts: How Hackers, Innovators, and Icons Accelerate Success- The Simple Path to Wealth: Your Road Map to Financial Independence and a Rich, Free Life- Pre-Suasion: A Revolutionary Way to Influence and Persuade<!-- GOODREADS:END -->
 
 ## Listening to
 
