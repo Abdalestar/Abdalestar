@@ -32,6 +32,23 @@ I design the products I build, code them, run the meetings, make the calls. The 
 
 Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type system. Looking for hard problems and the kind of people who like solving them.
 
+## Activity
+
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub metrics" />
+</p>
+
+**Recent public moves**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Reach me
 
-[Email](mailto:abdalestar@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abdalle-ali/)
+[Email](mailto:abdalestar@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abdalle-ali/) · [X](https://x.com/al_oooz)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdalestar&color=0d1117&style=flat-square&label=profile+views" alt="Profile views" />
+</p>
