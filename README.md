@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START -->- [Essentials: Psychedelics &amp; Neurostimulation for Brain Rewiring | Dr. Nolan Williams](https://www.youtube.com/watch?v=GkG1hMhIQ_Q)<br>- [Peptides: The Science, Uses &amp; Safety | Dr. Abud Bakri](https://www.youtube.com/watch?v=_DfqnpSbMfE)<br>- [The Science &amp; Process of Healing from Grief | Huberman Lab Essentials](https://www.youtube.com/watch?v=PlQyGIIAGNo)<br><!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [Essentials: Psychedelics &amp; Neurostimulation for Brain Rewiring | Dr. Nolan Williams](https://www.youtube.com/watch?v=GkG1hMhIQ_Q)<br>&bull; [Peptides: The Science, Uses &amp; Safety | Dr. Abud Bakri](https://www.youtube.com/watch?v=_DfqnpSbMfE)<br>&bull; [The Science &amp; Process of Healing from Grief | Huberman Lab Essentials](https://www.youtube.com/watch?v=PlQyGIIAGNo)<!-- LISTENING:END -->
 
 ## Activity
 
