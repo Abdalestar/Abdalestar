@@ -32,6 +32,16 @@ I design the products I build, code them, run the meetings, make the calls. The 
 
 Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type system. Looking for hard problems and the kind of people who like solving them.
 
+## Currently reading
+
+<!-- GOODREADS:START -->
+<!-- GOODREADS:END -->
+
+## Listening to
+
+<!-- LISTENING:START -->
+<!-- LISTENING:END -->
+
 ## Activity
 
 <p align="center">

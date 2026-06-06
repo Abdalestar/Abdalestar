@@ -1,0 +1,32 @@
+name: Update feeds (reading + listening)
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Goodreads currently-reading
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.goodreads.com/review/list_rss/60807769?shelf=currently-reading"
+          comment_tag_name: "GOODREADS"
+          max_post_count: 3
+          template: "- $title"
+          commit_message: "Update Goodreads currently-reading"
+
+      - name: Listening (Huberman Lab)
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC2D2CMWXMOVWx7giW1n3LIg"
+          comment_tag_name: "LISTENING"
+          max_post_count: 3
+          template: "- [$title]($url)"
+          commit_message: "Update listening feed"
