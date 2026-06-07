@@ -63,5 +63,5 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdalestar&color=0d1117&style=flat-square&label=profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Abdalestar&color=0d1117&style=flat-square&label=profile+views&base=650" alt="Profile views" />
 </p>
