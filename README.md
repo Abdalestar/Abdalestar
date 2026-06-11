@@ -49,11 +49,11 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 **Recent public moves**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#103](https://github.com/Abdalestar/docs/pull/103) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
-2. 💪 Opened PR [#102](https://github.com/Abdalestar/docs/pull/102) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
-3. 💪 Opened PR [#101](https://github.com/Abdalestar/docs/pull/101) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
-4. 🎉 Merged PR [#100](https://github.com/Abdalestar/docs/pull/100) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
-5. 🎉 Merged PR [#99](https://github.com/Abdalestar/docs/pull/99) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
+1. 💪 Opened PR [#106](https://github.com/Abdalestar/docs/pull/106) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
+2. 💪 Opened PR [#105](https://github.com/Abdalestar/docs/pull/105) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
+3. 💪 Opened PR [#104](https://github.com/Abdalestar/docs/pull/104) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
+4. 💪 Opened PR [#103](https://github.com/Abdalestar/docs/pull/103) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
+5. 💪 Opened PR [#102](https://github.com/Abdalestar/docs/pull/102) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
 <!--END_SECTION:activity-->
 
 ## Reach me
