@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [Essentials: Sleep Toolkit for Optimizing Sleep &amp; Sleep-Wake Timing](https://www.youtube.com/watch?v=RTgJSQtvo88)<br>&bull; [Eating for Better Sleep &amp; Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge](https://www.youtube.com/watch?v=jjaFnKtytqI)<br>&bull; [Essentials: Psychedelics &amp; Neurostimulation for Brain Rewiring | Dr. Nolan Williams](https://www.youtube.com/watch?v=GkG1hMhIQ_Q)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [The Mental Frame &amp; Specific Daily Actions to Succeed | Andy Stumpf](https://www.youtube.com/watch?v=baecUt1GaPk)<br>&bull; [Essentials: Sleep Toolkit for Optimizing Sleep &amp; Sleep-Wake Timing](https://www.youtube.com/watch?v=RTgJSQtvo88)<br>&bull; [Eating for Better Sleep &amp; Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge](https://www.youtube.com/watch?v=jjaFnKtytqI)<!-- LISTENING:END -->
 
 ## Activity
 
