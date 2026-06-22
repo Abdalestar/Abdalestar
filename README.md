@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [Improve Flexibility with Research-Supported Stretching Protocols | Huberman Lab Essentials](https://www.youtube.com/watch?v=syJYZm5OZhE)<br>&bull; [The Mental Frame &amp; Specific Daily Actions to Succeed | Andy Stumpf](https://www.youtube.com/watch?v=baecUt1GaPk)<br>&bull; [Essentials: Sleep Toolkit for Optimizing Sleep &amp; Sleep-Wake Timing](https://www.youtube.com/watch?v=RTgJSQtvo88)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [Science of Attraction, Compatibility &amp; Romance | Dr. Paul Eastwick](https://www.youtube.com/watch?v=CV0GtUlJ6NM)<br>&bull; [Improve Flexibility with Research-Supported Stretching Protocols | Huberman Lab Essentials](https://www.youtube.com/watch?v=syJYZm5OZhE)<br>&bull; [The Mental Frame &amp; Specific Daily Actions to Succeed | Andy Stumpf](https://www.youtube.com/watch?v=baecUt1GaPk)<!-- LISTENING:END -->
 
 ## Activity
 
