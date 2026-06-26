@@ -58,7 +58,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Reach me
 
-[Email](mailto:abdalestar@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abdalle-ali/) · [X](https://x.com/al_oooz)
+[Email](mailto:ceo@qtap.qa) · [LinkedIn](https://www.linkedin.com/in/abdalle-ali/) · [X](https://x.com/al_ooz97)
 
 ---
 
