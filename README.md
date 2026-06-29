@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [Essentials: The Science of Eating for Health, Fat Loss &amp; Lean Muscle | Dr. Layne Norton](https://www.youtube.com/watch?v=WWe4up63hb4)<br>&bull; [Science of Attraction, Compatibility &amp; Romance | Dr. Paul Eastwick](https://www.youtube.com/watch?v=CV0GtUlJ6NM)<br>&bull; [Improve Flexibility with Research-Supported Stretching Protocols | Huberman Lab Essentials](https://www.youtube.com/watch?v=syJYZm5OZhE)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal](https://www.youtube.com/watch?v=Zz8chJwh3S4)<br>&bull; [Essentials: The Science of Eating for Health, Fat Loss &amp; Lean Muscle | Dr. Layne Norton](https://www.youtube.com/watch?v=WWe4up63hb4)<br>&bull; [Science of Attraction, Compatibility &amp; Romance | Dr. Paul Eastwick](https://www.youtube.com/watch?v=CV0GtUlJ6NM)<!-- LISTENING:END -->
 
 ## Activity
 
