@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett](https://www.youtube.com/watch?v=O-groYMqrQw)<br>&bull; [Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal](https://www.youtube.com/watch?v=Zz8chJwh3S4)<br>&bull; [Essentials: The Science of Eating for Health, Fat Loss &amp; Lean Muscle | Dr. Layne Norton](https://www.youtube.com/watch?v=WWe4up63hb4)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [Raising a Dog &amp; Mastering Calm Assertive Energy | Cesar Millan](https://www.youtube.com/watch?v=n_qKxNcMvtM)<br>&bull; [Essentials: Tools for Hormone Optimization in Males | Dr. Kyle Gillett](https://www.youtube.com/watch?v=O-groYMqrQw)<br>&bull; [Movement Practice to Strengthen Your Mind-Body Connection | Ido Portal](https://www.youtube.com/watch?v=Zz8chJwh3S4)<!-- LISTENING:END -->
 
 ## Activity
 
