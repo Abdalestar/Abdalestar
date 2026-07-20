@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [The Science &amp; Treatment of Bipolar Disorder | Huberman Lab Essentials](https://www.youtube.com/watch?v=UTB5gAkjevk)<br>&bull; [Errors Are Necessary for Learning](https://www.youtube.com/shorts/FncQhrEnTEU)<br>&bull; [Most Dogs Need Far More Exercise Than They Get to Be Happy &amp; Health](https://www.youtube.com/shorts/_MgdBhihj2A)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [Accelerate Learning &amp; Increase Cognitive Capacity | Dr. Tommy Wood](https://www.youtube.com/watch?v=bPd9NnOzx78)<br>&bull; [The Science &amp; Treatment of Bipolar Disorder | Huberman Lab Essentials](https://www.youtube.com/watch?v=UTB5gAkjevk)<br>&bull; [Errors Are Necessary for Learning](https://www.youtube.com/shorts/FncQhrEnTEU)<!-- LISTENING:END -->
 
 ## Activity
 
