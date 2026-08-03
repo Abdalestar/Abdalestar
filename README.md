@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [My book Protocols releases September 15th](https://www.youtube.com/shorts/vmRWUqkTtKA)<br>&bull; [Essentials: How to Become Resilient, Forge Your Identity &amp; Lead Others | Jocko Willink](https://www.youtube.com/watch?v=lxDf8uEypJU)<br>&bull; [Your Top Health Questions Answered](https://www.youtube.com/watch?v=ssP31IenzYA)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [How Your Immune System Works &amp; How to Improve It | Dr. Max Krummel](https://www.youtube.com/watch?v=s_tkMm5U9aY)<br>&bull; [My book Protocols releases September 15th](https://www.youtube.com/shorts/vmRWUqkTtKA)<br>&bull; [Essentials: How to Become Resilient, Forge Your Identity &amp; Lead Others | Jocko Willink](https://www.youtube.com/watch?v=lxDf8uEypJU)<!-- LISTENING:END -->
 
 ## Activity
 
