@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [Your Memories &amp; Emotions Impact Immune Status](https://www.youtube.com/shorts/PensChQQKg4)<br>&bull; [How Your Immune System Works &amp; How to Improve It | Dr. Max Krummel](https://www.youtube.com/watch?v=s_tkMm5U9aY)<br>&bull; [My book Protocols releases September 15th](https://www.youtube.com/shorts/vmRWUqkTtKA)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [Control Your Brain Chemistry for Focus, Motivation &amp; Well-Being | Huberman Lab Essentials](https://www.youtube.com/watch?v=xKvlK7OqZso)<br>&bull; [Your Memories &amp; Emotions Impact Immune Status](https://www.youtube.com/shorts/PensChQQKg4)<br>&bull; [How Your Immune System Works &amp; How to Improve It | Dr. Max Krummel](https://www.youtube.com/watch?v=s_tkMm5U9aY)<!-- LISTENING:END -->
 
 ## Activity
 
