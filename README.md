@@ -49,9 +49,9 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 **Recent public moves**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#158](https://github.com/Abdalestar/docs/pull/158) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
-2. 🎉 Merged PR [#157](https://github.com/Abdalestar/docs/pull/157) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
-3. 🎉 Merged PR [#156](https://github.com/Abdalestar/docs/pull/156) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
+1. 💪 Opened PR [#160](https://github.com/Abdalestar/docs/pull/160) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
+2. 💪 Opened PR [#159](https://github.com/Abdalestar/docs/pull/159) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
+3. 💪 Opened PR [#158](https://github.com/Abdalestar/docs/pull/158) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
 4. 🎉 Merged PR [#155](https://github.com/Abdalestar/docs/pull/155) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
 5. 🎉 Merged PR [#153](https://github.com/Abdalestar/docs/pull/153) in [Abdalestar/docs](https://github.com/Abdalestar/docs)
 <!--END_SECTION:activity-->
