@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [Essentials: How to Optimize Female Hormone Health for Vitality &amp; Longevity | Dr. Sara Gottfried](https://www.youtube.com/watch?v=wbuPQPu-03Y)<br>&bull; [Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li](https://www.youtube.com/watch?v=N5AQFYtqx8Q)<br>&bull; [Control Your Brain Chemistry for Focus, Motivation &amp; Well-Being | Huberman Lab Essentials](https://www.youtube.com/watch?v=xKvlK7OqZso)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [Benevolent Uses of AI to Improve Your Life](https://www.youtube.com/shorts/XmUVbu5BgiI)<br>&bull; [Essentials: How to Optimize Female Hormone Health for Vitality &amp; Longevity | Dr. Sara Gottfried](https://www.youtube.com/watch?v=wbuPQPu-03Y)<br>&bull; [Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li](https://www.youtube.com/watch?v=N5AQFYtqx8Q)<!-- LISTENING:END -->
 
 ## Activity
 
