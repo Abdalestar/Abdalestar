@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [Benevolent Uses of AI to Improve Your Life](https://www.youtube.com/shorts/XmUVbu5BgiI)<br>&bull; [Essentials: How to Optimize Female Hormone Health for Vitality &amp; Longevity | Dr. Sara Gottfried](https://www.youtube.com/watch?v=wbuPQPu-03Y)<br>&bull; [Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li](https://www.youtube.com/watch?v=N5AQFYtqx8Q)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [Episode 294   Ralph Adolphs](https://www.youtube.com/watch?v=P-h5WSQG1Sw)<br>&bull; [Benevolent Uses of AI to Improve Your Life](https://www.youtube.com/shorts/XmUVbu5BgiI)<br>&bull; [Essentials: How to Optimize Female Hormone Health for Vitality &amp; Longevity | Dr. Sara Gottfried](https://www.youtube.com/watch?v=wbuPQPu-03Y)<!-- LISTENING:END -->
 
 ## Activity
 
