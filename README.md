@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [Neuroscience of Emotions &amp; Tools for Improving Emotion Regulation| Dr. Ralph Adolphs](https://www.youtube.com/watch?v=P-h5WSQG1Sw)<br>&bull; [Benevolent Uses of AI to Improve Your Life](https://www.youtube.com/shorts/XmUVbu5BgiI)<br>&bull; [Essentials: How to Optimize Female Hormone Health for Vitality &amp; Longevity | Dr. Sara Gottfried](https://www.youtube.com/watch?v=wbuPQPu-03Y)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [Essentials: How to Access Your Creativity | Rick Rubin](https://www.youtube.com/watch?v=QP8Kpf1UQwM)<br>&bull; [Neuroscience of Emotions &amp; Tools for Improving Emotion Regulation| Dr. Ralph Adolphs](https://www.youtube.com/watch?v=P-h5WSQG1Sw)<br>&bull; [Benevolent Uses of AI to Improve Your Life](https://www.youtube.com/shorts/XmUVbu5BgiI)<!-- LISTENING:END -->
 
 ## Activity
 
