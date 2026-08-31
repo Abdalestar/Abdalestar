@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [Essentials: Diet &amp; Nutrition for Mental Health | Dr. Chris Palmer](https://www.youtube.com/watch?v=E56LSFCNdkI)<br>&bull; [How to Improve Motivation &amp; Overcome Procrastination | Dr. Masud Husain](https://www.youtube.com/watch?v=58-k4F7-AoA)<br>&bull; [Essentials: How to Access Your Creativity | Rick Rubin](https://www.youtube.com/watch?v=QP8Kpf1UQwM)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [How to Accelerate Learning &amp; Improve Education | Joe Liemandt](https://www.youtube.com/watch?v=Uzoe1RYVjiA)<br>&bull; [Essentials: Diet &amp; Nutrition for Mental Health | Dr. Chris Palmer](https://www.youtube.com/watch?v=E56LSFCNdkI)<br>&bull; [How to Improve Motivation &amp; Overcome Procrastination | Dr. Masud Husain](https://www.youtube.com/watch?v=58-k4F7-AoA)<!-- LISTENING:END -->
 
 ## Activity
 
