@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [Essentials: Use Sleep to Enhance Learning, Memory &amp; Emotional State | Dr. Gina Poe](https://www.youtube.com/watch?v=f1NNmiz547U)<br>&bull; [How to Accelerate Learning &amp; Improve Education | Joe Liemandt](https://www.youtube.com/watch?v=Uzoe1RYVjiA)<br>&bull; [Essentials: Diet &amp; Nutrition for Mental Health | Dr. Chris Palmer](https://www.youtube.com/watch?v=E56LSFCNdkI)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [How Mitochondria Control Your Metabolism | Dr. Jared Rutter](https://www.youtube.com/watch?v=bv56Cuq-fyY)<br>&bull; [Essentials: Use Sleep to Enhance Learning, Memory &amp; Emotional State | Dr. Gina Poe](https://www.youtube.com/watch?v=f1NNmiz547U)<br>&bull; [How to Accelerate Learning &amp; Improve Education | Joe Liemandt](https://www.youtube.com/watch?v=Uzoe1RYVjiA)<!-- LISTENING:END -->
 
 ## Activity
 
