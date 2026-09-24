@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [Best Tools for Gut Health &amp; Weight Loss | Dr. Chris Thompson](https://www.youtube.com/watch?v=ecjEM3NJ0lU)<br>&bull; [Essentials: How to Assess &amp; Improve All Aspects of Your Fitness | Dr. Andy Galpin](https://www.youtube.com/watch?v=VjaPWC4VPPU)<br>&bull; [The Art of True Happiness | Dr. Arthur Brooks](https://www.youtube.com/watch?v=Gk2ArbsrZwE)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [Advantage of Microdosing GLPs](https://www.youtube.com/shorts/C0RyMr9s3Hw)<br>&bull; [Best Tools for Gut Health &amp; Weight Loss | Dr. Chris Thompson](https://www.youtube.com/watch?v=ecjEM3NJ0lU)<br>&bull; [Essentials: How to Assess &amp; Improve All Aspects of Your Fitness | Dr. Andy Galpin](https://www.youtube.com/watch?v=VjaPWC4VPPU)<!-- LISTENING:END -->
 
 ## Activity
 
