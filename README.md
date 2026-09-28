@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [Dr. Arthur Brooks: The 3 Macronutrients of True Happiness](https://www.youtube.com/shorts/xmEnK-WWlUY)<br>&bull; [Essentials: Optimal Protocols to Build Strength &amp; Grow Muscles | Dr. Andy Galpin](https://www.youtube.com/watch?v=Gu04f6aFuBY)<br>&bull; [Advantage of Microdosing GLPs](https://www.youtube.com/shorts/C0RyMr9s3Hw)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan](https://www.youtube.com/watch?v=nk15CT41MFc)<br>&bull; [Dr. Arthur Brooks: The 3 Macronutrients of True Happiness](https://www.youtube.com/shorts/xmEnK-WWlUY)<br>&bull; [Essentials: Optimal Protocols to Build Strength &amp; Grow Muscles | Dr. Andy Galpin](https://www.youtube.com/watch?v=Gu04f6aFuBY)<!-- LISTENING:END -->
 
 ## Activity
 
