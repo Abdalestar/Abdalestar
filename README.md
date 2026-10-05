@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [Tools to Improve Your Focus &amp; Concentration | Huberman Lab Essentials](https://www.youtube.com/watch?v=8e3RC1L5V_Y)<br>&bull; [What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan](https://www.youtube.com/watch?v=nk15CT41MFc)<br>&bull; [Dr. Arthur Brooks: The 3 Macronutrients of True Happiness](https://www.youtube.com/shorts/xmEnK-WWlUY)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [Bringing Extinct Species Back to Life | Dr. Beth Shapiro](https://www.youtube.com/watch?v=SFX8FIHFLE4)<br>&bull; [Tools to Improve Your Focus &amp; Concentration | Huberman Lab Essentials](https://www.youtube.com/watch?v=8e3RC1L5V_Y)<br>&bull; [What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan](https://www.youtube.com/watch?v=nk15CT41MFc)<!-- LISTENING:END -->
 
 ## Activity
 
