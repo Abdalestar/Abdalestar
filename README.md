@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [THANK YOU! To all of you who are reading or listening to PROTOCOLS](https://www.youtube.com/shorts/WnuKwoF8Viw)<br>&bull; [Essentials: Manage Stress &amp; Build Resilience | Dr. Elissa Epel](https://www.youtube.com/watch?v=RqMWvhvt0DQ)<br>&bull; [Bringing Extinct Species Back to Life | Dr. Beth Shapiro](https://www.youtube.com/watch?v=SFX8FIHFLE4)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [How Food Choices Shape Memory, Cognition &amp; Cravings | Dr. Scott Kanoski](https://www.youtube.com/watch?v=PXHRYbr3mp4)<br>&bull; [THANK YOU! To all of you who are reading or listening to PROTOCOLS](https://www.youtube.com/shorts/WnuKwoF8Viw)<br>&bull; [Essentials: Manage Stress &amp; Build Resilience | Dr. Elissa Epel](https://www.youtube.com/watch?v=RqMWvhvt0DQ)<!-- LISTENING:END -->
 
 ## Activity
 
