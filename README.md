@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [How to Rewire Your Brain to Crave Healthy Foods](https://www.youtube.com/shorts/xZAsG5MShnk)<br>&bull; [How Food Choices Shape Memory, Cognition &amp; Cravings | Dr. Scott Kanoski](https://www.youtube.com/watch?v=PXHRYbr3mp4)<br>&bull; [THANK YOU! To all of you who are reading or listening to PROTOCOLS](https://www.youtube.com/shorts/WnuKwoF8Viw)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [Essentials: Neuralink &amp; Technologies to Enhance Human Brains | Dr. Matt MacDougall](https://www.youtube.com/watch?v=YdIJW8RTptU)<br>&bull; [How to Rewire Your Brain to Crave Healthy Foods](https://www.youtube.com/shorts/xZAsG5MShnk)<br>&bull; [How Food Choices Shape Memory, Cognition &amp; Cravings | Dr. Scott Kanoski](https://www.youtube.com/watch?v=PXHRYbr3mp4)<!-- LISTENING:END -->
 
 ## Activity
 
