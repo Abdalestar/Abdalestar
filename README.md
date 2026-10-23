@@ -38,7 +38,7 @@ Shipping Qtap's merchant onboarding flow. Working on Fenny's bilingual type syst
 
 ## Listening to
 
-<!-- LISTENING:START --><br>&bull; [Essentials: Developing a Rational Approach to Supplementation for Health &amp; Performance](https://www.youtube.com/watch?v=eYSOabR3YP0)<br>&bull; [What Makes Great Leaders &amp; How to Live an Extraordinary Life | Dr. Jared Diamond](https://www.youtube.com/watch?v=2oqBvTRYcv0)<br>&bull; [Essentials: Neuralink &amp; Technologies to Enhance Human Brains | Dr. Matt MacDougall](https://www.youtube.com/watch?v=YdIJW8RTptU)<!-- LISTENING:END -->
+<!-- LISTENING:START --><br>&bull; [Do What You Enjoy | Dr. Jared Diamond](https://www.youtube.com/shorts/DS6W1Ok6TsU)<br>&bull; [Essentials: Developing a Rational Approach to Supplementation for Health &amp; Performance](https://www.youtube.com/watch?v=eYSOabR3YP0)<br>&bull; [What Makes Great Leaders &amp; How to Live an Extraordinary Life | Dr. Jared Diamond](https://www.youtube.com/watch?v=2oqBvTRYcv0)<!-- LISTENING:END -->
 
 ## Activity
 
